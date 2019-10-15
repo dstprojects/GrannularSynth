@@ -205,7 +205,7 @@ void SynthAudioProcessorEditor:: transportStateChanged(TransportState newState, 
         
         switch (state) {
             case Stopped:
-                platButton.setEnabled(true);
+                playButton.setEnabled(true);
                 transport.setPosition(0.0);
                 break;
                 
