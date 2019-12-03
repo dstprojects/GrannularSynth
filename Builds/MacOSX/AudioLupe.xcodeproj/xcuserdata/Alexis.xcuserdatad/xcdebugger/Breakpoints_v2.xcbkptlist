@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31BB3E4C-0722-46A7-91DC-C45AA1846476"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5896CD0D-6129-42DE-9A00-83D342DEEBC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/GrainEnvelope.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "GrainEnvelope::process(currentBlock, fileBuffer, duration, position, blockNumSamples, fileNumSamples)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C31D693-DA29-42CF-A60D-59D773F1EC4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/GrainEnvelope.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "GrainEnvelope::process(currentBlock, fileBuffer, duration, position, blockNumSamples, fileNumSamples)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C31D693-DA29-42CF-A60D-59D773F1EC4A - f30cbc28fbe1b1c0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrainEnvelope::process(float*, float const*, float, float, int, int)"
+                  moduleName = "AudioLupe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexis/Documents/Tec/9no%20semestre/Estancia%20de%20investigacion/AudioLupe/AudioLupe/Source/GrainEnvelope.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "395">
+               </Location>
+               <Location
+                  uuid = "0C31D693-DA29-42CF-A60D-59D773F1EC4A - f30cbc28fbe1b1c0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrainEnvelope::process(float*, float const*, float, float, int, int)"
+                  moduleName = "AudioLupe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexis/Documents/Tec/9no%20semestre/Estancia%20de%20investigacion/AudioLupe/AudioLupe/Source/GrainEnvelope.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
